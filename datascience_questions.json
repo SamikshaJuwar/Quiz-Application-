@@ -1,0 +1,573 @@
+[
+    {
+        "question": "Which of the following is an unsupervised learning algorithm?",
+        "options": [
+            "Random Forest",
+            "Linear Regression",
+            "K-Means Clustering",
+            "Support Vector Machine"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of cross-validation in machine learning?",
+        "options": [
+            "To train a model on a single dataset",
+            "To split the data into training and testing sets",
+            "To evaluate a model's performance on multiple subsets of data",
+            "To eliminate the need for training and testing data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In data science, what is the term for a measure of the central tendency of data?",
+        "options": [
+            "Variance",
+            "Range",
+            "Median",
+            "Standard Deviation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which programming language is commonly used for data analysis in data science?",
+        "options": [
+            "Java",
+            "C++",
+            "Python",
+            "Ruby"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of feature engineering in machine learning?",
+        "options": [
+            "To remove all features from the dataset",
+            "To create new features from the existing data",
+            "To overfit the model",
+            "To decrease model complexity"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the main goal of dimensionality reduction techniques in data science?",
+        "options": [
+            "To increase the number of features in the dataset",
+            "To reduce the amount of data available",
+            "To improve model performance and reduce complexity",
+            "To make the data more complex"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In data science, what is the purpose of exploratory data analysis (EDA)?",
+        "options": [
+            "To build machine learning models",
+            "To create visualizations for presentations",
+            "To understand and summarize data for initial insights",
+            "To randomly sample data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which library is often used for data manipulation and analysis in R?",
+        "options": [
+            "Pandas",
+            "Numpy",
+            "Matplotlib",
+            "Scikit-learn"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the term for an algorithm that can continuously learn from data without being explicitly programmed?",
+        "options": [
+            "Supervised learning",
+            "Reinforcement learning",
+            "Unsupervised learning",
+            "Machine learning"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which method is commonly used for imputing missing data in data science?",
+        "options": [
+            "Random guessing",
+            "Removing rows with missing data",
+            "Interpolation",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In data science, what is 'overfitting'?",
+        "options": [
+            "A model that fits the training data too closely but doesn't generalize well",
+            "A model that underfits the training data",
+            "A data visualization technique",
+            "A method for handling outliers"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does 'RMSE' stand for in data science?",
+        "options": [
+            "Root Mean Squared Error",
+            "Random Model Selection Estimation",
+            "Reduced Model Significance Evaluation",
+            "Relative Mean Square Estimation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which algorithm is often used for natural language processing (NLP) tasks?",
+        "options": [
+            "K-Means Clustering",
+            "Random Forest",
+            "Linear Regression",
+            "Naive Bayes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the main goal of association rule mining in data science?",
+        "options": [
+            "To perform regression analysis",
+            "To discover interesting relationships between variables in large datasets",
+            "To reduce data dimensionality",
+            "To classify data into categories"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the term for data that has not been processed for meaningful use yet?",
+        "options": [
+            "Processed data",
+            "Clean data",
+            "Raw data",
+            "Analyzed data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a common method for feature selection in machine learning?",
+        "options": [
+            "Standardization",
+            "Bagging",
+            "Regularization",
+            "Dimensionality Reduction"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the primary purpose of a confusion matrix in classification problems?",
+        "options": [
+            "To confuse the data",
+            "To display data visualization",
+            "To measure the performance of a classification model",
+            "To aggregate data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In data science, what is the term for a model that has never seen the data it's making predictions on?",
+        "options": [
+            "Training data",
+            "Testing data",
+            "Validation data",
+            "Out-of-sample data"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the term for a statistical measure of the amount of information gained from one data point?",
+        "options": [
+            "Confidence Interval",
+            "Entropy",
+            "Variance",
+            "Bias"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statistical test is used to determine the correlation between two continuous variables?",
+        "options": [
+            "Chi-Square test",
+            "T-test",
+            "Correlation test",
+            "Pearson correlation coefficient"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In data science, what is the term for data that falls outside of the normal range?",
+        "options": [
+            "Outliers",
+            "Inliers",
+            "Mean data",
+            "Clean data"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is not a common distance metric used in clustering algorithms?",
+        "options": [
+            "Euclidean distance",
+            "Manhattan distance",
+            "Cosine similarity",
+            "Pearson correlation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the term for data that is structured in columns and rows, similar to a spreadsheet?",
+        "options": [
+            "Structured data",
+            "Unstructured data",
+            "Semi-structured data",
+            "Raw data"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which data type is used for representing categorical data in Python?",
+        "options": [
+            "String",
+            "Integer",
+            "Float",
+            "Boolean"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In data science, what is the term for a data point that is very different from the other data points?",
+        "options": [
+            "Outlier",
+            "Noise",
+            "Inlier",
+            "Center"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the primary goal of principal component analysis (PCA) in data science?",
+        "options": [
+            "To perform classification",
+            "To increase dimensionality",
+            "To reduce dimensionality",
+            "To clean data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a scatter plot in data visualization?",
+        "options": [
+            "To show the distribution of data",
+            "To visualize categorical data",
+            "To display relationships between two continuous variables",
+            "To display bar charts"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which machine learning algorithm is inspired by the structure and function of the human brain?",
+        "options": [
+            "Decision Tree",
+            "Random Forest",
+            "Artificial Neural Network (ANN)",
+            "K-Nearest Neighbors (KNN)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the primary goal of feature scaling in data preprocessing?",
+        "options": [
+            "To make data look more complex",
+            "To transform data into a different format",
+            "To normalize and standardize features to the same scale",
+            "To add more features"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Python library is commonly used for web scraping in data science?",
+        "options": [
+            "Pandas",
+            "Beautiful Soup",
+            "Numpy",
+            "Scikit-learn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does 'TF-IDF' stand for in natural language processing (NLP)?",
+        "options": [
+            "Term Frequency-Inverse Document Frequency",
+            "Total Frequency-Inverse Document Function",
+            "Text Frequency-Inverse Data Feature",
+            "Top Features-Inverse Data Frequency"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a common clustering algorithm?",
+        "options": [
+            "Logistic Regression",
+            "Support Vector Machine",
+            "K-Means Clustering",
+            "Random Forest"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of 'bagging' in ensemble learning?",
+        "options": [
+            "To reduce the variance of a model by averaging predictions from multiple models",
+            "To combine multiple models into one",
+            "To add noise to the data",
+            "To overfit the model"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In data science, what does 'A/B testing' involve?",
+        "options": [
+            "Algorithmic-based testing",
+            "Anomaly-based testing",
+            "Algorithmic bias testing",
+            "Comparing two versions of a webpage or product"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a 'decision tree' in machine learning?",
+        "options": [
+            "To perform linear regression",
+            "To make decisions in real-time",
+            "To create a hierarchy of decisions for classification or regression",
+            "To perform clustering"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which data visualization library is commonly used in R for data science?",
+        "options": [
+            "Matplotlib",
+            "Seaborn",
+            "ggplot2",
+            "D3.js"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the main goal of time series analysis in data science?",
+        "options": [
+            "To analyze spatial data",
+            "To analyze text data",
+            "To analyze data that varies over time",
+            "To analyze image data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which statistical test is used to compare the means of two groups in data science?",
+        "options": [
+            "T-test",
+            "Chi-Square test",
+            "ANOVA",
+            "K-Means Clustering"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the primary purpose of a data dictionary in data science?",
+        "options": [
+            "To store images and multimedia data",
+            "To define the structure of a database",
+            "To summarize the results of data analysis",
+            "To encrypt data"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which data structure is often used to represent hierarchical or tree-like data in data science?",
+        "options": [
+            "List",
+            "Set",
+            "Dictionary",
+            "JSON"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In data science, what is 'regularization' in the context of machine learning?",
+        "options": [
+            "A technique to make a model more complex",
+            "A technique to prevent overfitting by adding a penalty term to the loss function",
+            "A technique to make a model less interpretable",
+            "A technique for feature selection"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary goal of feature extraction in data science?",
+        "options": [
+            "To increase the dimensionality of data",
+            "To remove all features from the dataset",
+            "To create new, more informative features from the existing data",
+            "To standardize data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In data science, what is 'Naive Bayes' commonly used for?",
+        "options": [
+            "Clustering",
+            "Classification",
+            "Regression",
+            "Dimensionality reduction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary goal of a data pipeline in data science?",
+        "options": [
+            "To analyze data",
+            "To collect data",
+            "To process and transport data from source to destination",
+            "To clean data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which technique is used to deal with class imbalance in machine learning?",
+        "options": [
+            "Data augmentation",
+            "Data cleaning",
+            "Data normalization",
+            "Data compression"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the term for a data analysis technique used to find patterns or relationships in data?",
+        "options": [
+            "Outlier detection",
+            "Clustering",
+            "Feature extraction",
+            "Data mining"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What does 'SQL' stand for in the context of databases and data science?",
+        "options": [
+            "Structured Query Language",
+            "Sequential Query Logic",
+            "Structured Query Logic",
+            "Structured Question Language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the main purpose of a 'heatmap' in data visualization?",
+        "options": [
+            "To visualize geographic data",
+            "To display a matrix of data using colors",
+            "To display categorical data",
+            "To visualize hierarchical data"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary goal of data sampling in data science?",
+        "options": [
+            "To collect more data",
+            "To remove outliers from the data",
+            "To obtain a representative subset of the data for analysis",
+            "To clean data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the term for a machine learning model that can make binary (yes/no) decisions?",
+        "options": [
+            "Classifier",
+            "Regressor",
+            "Clusterer",
+            "Transformer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In data science, what is the term for a variable that affects the relationship between two other variables?",
+        "options": [
+            "Dependent variable",
+            "Independent variable",
+            "Confounding variable",
+            "Categorical variable"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a dimensionality reduction technique in data science?",
+        "options": [
+            "PCA (Principal Component Analysis)",
+            "LDA (Linear Discriminant Analysis)",
+            "K-Means Clustering",
+            "t-SNE (t-Distributed Stochastic Neighbor Embedding)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the term for the process of dividing data into training and testing sets in machine learning?",
+        "options": [
+            "Data splitting",
+            "Data cleaning",
+            "Data encoding",
+            "Data transformation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In data science, what is 'p-value' used for in statistical hypothesis testing?",
+        "options": [
+            "To measure effect size",
+            "To determine if the null hypothesis should be rejected",
+            "To calculate correlation",
+            "To perform linear regression"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the main goal of regression analysis in data science?",
+        "options": [
+            "To classify data",
+            "To estimate a continuous dependent variable based on one or more independent variables",
+            "To perform clustering",
+            "To measure data spread"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In data science, what is the purpose of 'out-of-sample testing'?",
+        "options": [
+            "To test a model on data it has never seen before",
+            "To train a model with more data",
+            "To test a model on the same data it was trained on",
+            "To reduce overfitting"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the primary purpose of 'k-fold cross-validation' in machine learning?",
+        "options": [
+            "To divide data into training and testing sets",
+            "To create a model ensemble",
+            "To evaluate a model's performance on multiple subsets of data",
+            "To increase model complexity"
+        ],
+        "answer": 2
+    }
+    
+]

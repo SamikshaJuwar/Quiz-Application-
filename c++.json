@@ -1,0 +1,455 @@
+{
+    "questions": [
+      {
+        "question": "What is C++?",
+        "options": [
+          "A programming language",
+          "A software application",
+          "A musical instrument",
+          "A type of coffee"
+        ],
+        "correct_answer": "A programming language"
+      },
+      {
+        "question": "In C++, what is the 'cout' object used for?",
+        "options": [
+          "Reading input from the user",
+          "Mathematical calculations",
+          "Displaying output to the console",
+          "Database operations"
+        ],
+        "correct_answer": "Displaying output to the console"
+      },
+      {
+        "question": "What does OOP stand for in C++?",
+        "options": [
+          "Overridden Object Programming",
+          "Object-Oriented Programming",
+          "Octagonal Object Processing",
+          "Outer Operating Procedure"
+        ],
+        "correct_answer": "Object-Oriented Programming"
+      },
+      {
+        "question": "Which C++ keyword is used to create a class?",
+        "options": [
+          "class",
+          "object",
+          "new",
+          "define"
+        ],
+        "correct_answer": "class"
+      },
+      {
+        "question": "In C++, what is a 'constructor'?",
+        "options": [
+          "A function used for mathematical calculations",
+          "A member function of a class",
+          "A special member function used for initializing objects",
+          "A control statement for loops"
+        ],
+        "correct_answer": "A special member function used for initializing objects"
+      },
+      {
+        "question": "What is the primary benefit of inheritance in C++?",
+        "options": [
+          "Reducing code redundancy and promoting code reusability",
+          "Speeding up program execution",
+          "Enabling multi-threading",
+          "Allowing dynamic memory allocation"
+        ],
+        "correct_answer": "Reducing code redundancy and promoting code reusability"
+      },
+      {
+        "question": "What is the 'this' pointer in C++?",
+        "options": [
+          "A pointer to the next available memory location",
+          "A pointer to the current object",
+          "A null pointer",
+          "A reserved keyword for memory management"
+        ],
+        "correct_answer": "A pointer to the current object"
+      },
+      {
+        "question": "What does 'polymorphism' mean in C++?",
+        "options": [
+          "The ability of a function to have multiple names",
+          "The ability of a class to have multiple constructors",
+          "The ability of objects to take multiple forms",
+          "The ability to perform parallel processing"
+        ],
+        "correct_answer": "The ability of objects to take multiple forms"
+      },
+      {
+        "question": "In C++, how do you declare a constant variable?",
+        "options": [
+          "Using the 'const' keyword before the data type",
+          "By making it a member of a class",
+          "Using the 'constant' keyword",
+          "Declaring it inside a loop"
+        ],
+        "correct_answer": "Using the 'const' keyword before the data type"
+      },
+      {
+        "question": "What is the C++ standard library function for dynamic memory allocation?",
+        "options": [
+          "alloc()",
+          "new()",
+          "malloc()",
+          "allocate()"
+        ],
+        "correct_answer": "new()"
+      },
+      {
+        "question": "What is the difference between 'public,' 'private,' and 'protected' access specifiers in C++?",
+        "options": [
+          "They are all identical and interchangeable",
+          "They determine the data type of a variable",
+          "They control the visibility and accessibility of class members",
+          "They are used for defining classes"
+        ],
+        "correct_answer": "They control the visibility and accessibility of class members"
+      },
+      {
+        "question": "What is the C++ standard library function to output text to a file?",
+        "options": [
+          "fileout()",
+          "textout()",
+          "writefile()",
+          "ofstream()"
+        ],
+        "correct_answer": "ofstream()"
+      },
+      {
+        "question": "What is a 'template' in C++?",
+        "options": [
+          "A template for creating class objects",
+          "A template for printing output",
+          "A way to comment out code",
+          "A type of memory storage"
+        ],
+        "correct_answer": "A template for creating class objects"
+      },
+      {
+        "question": "What does 'RAII' stand for in C++?",
+        "options": [
+          "Resource Allocation Is Important",
+          "Run All Implemented Instructions",
+          "Read All Input Information",
+          "Repetitive Algorithmic Iteration"
+        ],
+        "correct_answer": "Resource Allocation Is Important"
+      },
+      {
+        "question": "Which C++ keyword is used to inherit the members of a base class in a derived class?",
+        "options": [
+          "include",
+          "base",
+          "extends",
+          "public"
+        ],
+        "correct_answer": "public"
+      },
+      {
+        "question": "What is the 'virtual' keyword used for in C++?",
+        "options": [
+          "To declare a variable",
+          "To indicate that a function can be overridden in derived classes",
+          "To perform mathematical operations",
+          "To define a constant value"
+        ],
+        "correct_answer": "To indicate that a function can be overridden in derived classes"
+      },
+      {
+        "question": "What is the C++ standard library container for a dynamically resizable array?",
+        "options": [
+          "vector",
+          "array",
+          "list",
+          "arraylist"
+        ],
+        "correct_answer": "vector"
+      },
+      {
+        "question": "What is the purpose of the 'delete' operator in C++?",
+        "options": [
+          "To terminate a program",
+          "To free memory allocated by 'new'",
+          "To remove a class definition",
+          "To display an error message"
+        ],
+        "correct_answer": "To free memory allocated by 'new'"
+      },
+      {
+        "question": "What is a 'namespace' in C++?",
+        "options": [
+          "A reserved keyword",
+          "A way to group related classes, functions, and variables",
+          "A data type",
+          "A mathematical concept"
+        ],
+        "correct_answer": "A way to group related classes, functions, and variables"
+      },
+      {
+        "question": "In C++, what is the 'try-catch' block used for?",
+        "options": [
+          "Performing arithmetic operations",
+          "Handling exceptions and errors",
+          "Defining a class",
+          "Creating objects"
+        ],
+        "correct_answer": "Handling exceptions and errors"
+      },
+      {
+        "question": "What is the 'STL' in C++?",
+        "options": [
+          "Simple Template Library",
+          "System Text Library",
+          "Standard Template Library",
+          "String Translation Language"
+        ],
+        "correct_answer": "Standard Template Library"
+      },
+      {
+        "question": "Which C++ keyword is used to exit a loop prematurely?",
+        "options": [
+          "terminate",
+          "break",
+          "stop",
+          "exit"
+        ],
+        "correct_answer": "break"
+      },
+      {
+        "question": "What is the output of 'cout << (5 > 3)' in C++?",
+        "options": [
+          "true",
+          "false",
+          "1",
+          "0"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "question": "What is 'function overloading' in C++?",
+        "options": [
+          "A technique to define a function multiple times with different names",
+          "A way to perform mathematical operations",
+          "A function that calculates an overload of data",
+          "A function that generates errors"
+        ],
+        "correct_answer": "A technique to define a function multiple times with different names"
+      },
+      {
+        "question": "What is 'function overriding' in C++?",
+        "options": [
+          "A technique to define a function multiple times with different names",
+          "A function that calculates an overload of data",
+          "A way to perform mathematical operations",
+          "A technique to redefine a base class function in a derived class"
+        ],
+        "correct_answer": "A technique to redefine a base class function in a derived class"
+      },
+      {
+        "question": "What is 'name mangling' in C++?",
+        "options": [
+          "A way to scramble variable names",
+          "A technique to make code more readable",
+          "A way to obfuscate class names",
+          "A method for generating random names"
+        ],
+        "correct_answer": "A way to scramble variable names"
+      },
+      {
+        "question": "What does 'STL' stand for in C++?",
+        "options": [
+          "System Text Library",
+          "Standard Template Library",
+          "String Translation Language",
+          "Simple Template Library"
+        ],
+        "correct_answer": "Standard Template Library"
+      },
+      {
+        "question": "In C++, what is 'this' used for?",
+        "options": [
+          "A keyword to declare a class",
+          "A way to end a program",
+          "A pointer to the current object",
+          "A control statement for loops"
+        ],
+        "correct_answer": "A pointer to the current object"
+      },
+      {
+        "question": "What is a 'friend' function in C++?",
+        "options": [
+          "A function that is a friend to the programmer",
+          "A function that can access the private members of a class",
+          "A function used for mathematical operations",
+          "A function that cannot be accessed from outside a class"
+        ],
+        "correct_answer": "A function that can access the private members of a class"
+      },
+      {
+        "question": "In C++, what is 'new' used for?",
+        "options": [
+          "To create a new object",
+          "To define a new data type",
+          "To allocate memory dynamically",
+          "To assign a new value to a variable"
+        ],
+        "correct_answer": "To allocate memory dynamically"
+      },
+      {
+        "question": "What is the C++ standard library function for reading a character from the keyboard?",
+        "options": [
+          "getchar()",
+          "readchar()",
+          "inputchar()",
+          "scanchar()"
+        ],
+        "correct_answer": "getchar()"
+      },
+      {
+        "question": "What is the C++ standard library function for opening a file?",
+        "options": [
+          "open()",
+          "fopen()",
+          "readfile()",
+          "createfile()"
+        ],
+        "correct_answer": "fopen()"
+      },
+      {
+        "question": "What is a 'destructor' in C++?",
+        "options": [
+          "A function used to destroy objects",
+          "A mathematical operation",
+          "A function used to create objects",
+          "A control statement for loops"
+        ],
+        "correct_answer": "A function used to destroy objects"
+      },
+      {
+        "question": "What does 'STL vector' in C++ provide?",
+        "options": [
+          "A way to print text to the console",
+          "A resizable dynamic array",
+          "A loop for iterating through objects",
+          "A graphical user interface"
+        ],
+        "correct_answer": "A resizable dynamic array"
+      },
+      {
+        "question": "What is the purpose of the 'assert' function in C++?",
+        "options": [
+          "To declare a variable",
+          "To perform mathematical calculations",
+          "To check assumptions and halt the program if they are false",
+          "To create a new object"
+        ],
+        "correct_answer": "To check assumptions and halt the program if they are false"
+      },
+      {
+        "question": "What is 'operator overloading' in C++?",
+        "options": [
+          "A way to define a class",
+          "A technique to redefine operators for user-defined data types",
+          "A mathematical concept",
+          "A control statement for loops"
+        ],
+        "correct_answer": "A technique to redefine operators for user-defined data types"
+      },
+      {
+        "question": "In C++, how do you declare a constant pointer?",
+        "options": [
+          "Using the 'constant' keyword before the data type",
+          "By making it a member of a class",
+          "Using the 'const' keyword before the pointer type",
+          "Declaring it inside a loop"
+        ],
+        "correct_answer": "Using the 'const' keyword before the pointer type"
+      },
+      {
+        "question": "What is 'exception handling' in C++?",
+        "options": [
+          "A way to create custom exceptions",
+          "A way to avoid errors in the program",
+          "A technique to handle and recover from runtime errors",
+          "A control statement for loops"
+        ],
+        "correct_answer": "A technique to handle and recover from runtime errors"
+      },
+      {
+        "question": "In C++, what is 'public inheritance'?",
+        "options": [
+          "Inheriting all the members of a base class with the same access controls",
+          "Inheriting only the public members of a base class",
+          "Inheriting the private members of a base class",
+          "Inheriting all the members of a base class with different access controls"
+        ],
+        "correct_answer": "Inheriting all the members of a base class with the same access controls"
+      },
+      {
+        "question": "What is 'template specialization' in C++?",
+        "options": [
+          "A way to create generic classes",
+          "A technique to override template functions",
+          "A way to customize templates for specific data types",
+          "A method for generating random data"
+        ],
+        "correct_answer": "A way to customize templates for specific data types"
+      },
+      {
+        "question": "What does 'C++ Standard Library' provide?",
+        "options": [
+          "A standard set of mathematical functions",
+          "A standard set of object-oriented principles",
+          "A standard set of design patterns",
+          "A standard set of libraries for common operations"
+        ],
+        "correct_answer": "A standard set of libraries for common operations"
+      },
+      {
+        "question": "What is 'lambda expression' in C++?",
+        "options": [
+          "A way to declare functions",
+          "A way to create objects",
+          "An anonymous function defined in a single line",
+          "A method for printing text to the console"
+        ],
+        "correct_answer": "An anonymous function defined in a single line"
+      },
+      {
+        "question": "What is 'polymorphism' in C++?",
+        "options": [
+          "A way to hide the implementation of a class",
+          "The ability of a function to have multiple names",
+          "The ability to perform mathematical operations",
+          "The ability of objects to take multiple forms"
+        ],
+        "correct_answer": "The ability of objects to take multiple forms"
+      },
+      {
+        "question": "What is 'encapsulation' in C++?",
+        "options": [
+          "A way to protect data and restrict access to it",
+          "A way to create class objects",
+          "A way to define a class",
+          "A way to display text on the screen"
+        ],
+        "correct_answer": "A way to protect data and restrict access to it"
+      },
+      {
+        "question": "What is the purpose of the 'main' function in a C++ program?",
+        "options": [
+          "To define a class",
+          "To perform mathematical operations",
+          "To indicate the program's entry point",
+          "To display output to the console"
+        ],
+        "correct_answer": "To indicate the program's entry point"
+      }
+    ]
+  }
+  

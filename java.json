@@ -1,0 +1,525 @@
+{
+    "java_mcq_questions": [
+      {
+        "question": "What is Java?",
+        "options": [
+          "A type of coffee",
+          "A programming language",
+          "A type of operating system",
+          "A database management system"
+        ],
+        "correct_answer": "A programming language"
+      },
+      {
+        "question": "Which of the following is not a valid Java variable name?",
+        "options": [
+          "myVariable",
+          "123variable",
+          "variable123",
+          "javaVariable"
+        ],
+        "correct_answer": "123variable"
+      },
+      {
+        "question": "What is the purpose of the 'public' access modifier in Java?",
+        "options": [
+          "To make a variable private",
+          "To restrict access to a method",
+          "To make a class or method accessible from any other class",
+          "To define a constant"
+        ],
+        "correct_answer": "To make a class or method accessible from any other class"
+      },
+      {
+        "question": "Which keyword is used to create an instance of a class in Java?",
+        "options": [
+          "new",
+          "instance",
+          "create",
+          "object"
+        ],
+        "correct_answer": "new"
+      },
+      {
+        "question": "What is the main method's signature in Java?",
+        "options": [
+          "public void main(String[] args)",
+          "public static void main(String[] args)",
+          "public static void main()",
+          "private void main(String[] args)"
+        ],
+        "correct_answer": "public static void main(String[] args)"
+      },
+      {
+        "question": "In Java, which data type is used to store whole numbers?",
+        "options": [
+          "float",
+          "double",
+          "int",
+          "String"
+        ],
+        "correct_answer": "int"
+      },
+      {
+        "question": "What is the output of 'System.out.println(5 + \"Java\")' in Java?",
+        "options": [
+          "5",
+          "5Java",
+          "Java5",
+          "Error"
+        ],
+        "correct_answer": "5Java"
+      },
+      {
+        "question": "Which Java keyword is used to explicitly specify that a variable doesn't have a value?",
+        "options": [
+          "null",
+          "void",
+          "empty",
+          "none"
+        ],
+        "correct_answer": "null"
+      },
+      {
+        "question": "What is an interface in Java?",
+        "options": [
+          "A class that cannot be instantiated",
+          "A concrete class",
+          "A type of loop",
+          "A keyword to define variables"
+        ],
+        "correct_answer": "A class that cannot be instantiated"
+      },
+      {
+        "question": "What is the purpose of the 'this' keyword in Java?",
+        "options": [
+          "To define a new class",
+          "To access the superclass",
+          "To refer to the current instance of the class",
+          "To declare a constant"
+        ],
+        "correct_answer": "To refer to the current instance of the class"
+      },
+      {
+        "question": "What is a 'constructor' in Java?",
+        "options": [
+          "A method used to destroy objects",
+          "A method used to access superclass members",
+          "A special method used to initialize objects",
+          "A method used for looping"
+        ],
+        "correct_answer": "A special method used to initialize objects"
+      },
+      {
+        "question": "What is the 'static' keyword used for in Java?",
+        "options": [
+          "To create a static website",
+          "To define a variable's data type",
+          "To specify that a variable or method belongs to the class, not to instances of the class",
+          "To prevent inheritance"
+        ],
+        "correct_answer": "To specify that a variable or method belongs to the class, not to instances of the class"
+      },
+      {
+        "question": "What is the 'final' keyword used for in Java?",
+        "options": [
+          "To indicate that a class cannot be subclassed",
+          "To specify the beginning of a program",
+          "To create a new instance of a class",
+          "To declare a constant"
+        ],
+        "correct_answer": "To indicate that a class cannot be subclassed"
+      },
+      {
+        "question": "Which operator is used for conditional (ternary) statements in Java?",
+        "options": [
+          "++",
+          "--",
+          "?:",
+          "=="
+        ],
+        "correct_answer": "?:"
+      },
+      {
+        "question": "What does the 'break' statement do in a Java loop?",
+        "options": [
+          "Ends the program",
+          "Jumps to the next iteration of the loop",
+          "Exits the loop prematurely",
+          "Repeats the loop indefinitely"
+        ],
+        "correct_answer": "Exits the loop prematurely"
+      },
+      {
+        "question": "What is the purpose of the 'super' keyword in Java?",
+        "options": [
+          "To create an object",
+          "To access the superclass of a class",
+          "To declare a variable",
+          "To invoke a method"
+        ],
+        "correct_answer": "To access the superclass of a class"
+      },
+      {
+        "question": "Which collection is used to store elements in a non-sequential order in Java?",
+        "options": [
+          "ArrayList",
+          "HashMap",
+          "LinkedList",
+          "HashSet"
+        ],
+        "correct_answer": "HashSet"
+      },
+      {
+        "question": "What is the purpose of the 'try' and 'catch' blocks in Java?",
+        "options": [
+          "To define a new method",
+          "To handle exceptions and errors",
+          "To create an instance of a class",
+          "To print a message to the console"
+        ],
+        "correct_answer": "To handle exceptions and errors"
+      },
+      {
+        "question": "What is the purpose of the 'finally' block in a Java try-catch-finally construct?",
+        "options": [
+          "To define a new class",
+          "To execute code that should always run, regardless of exceptions",
+          "To handle network connections",
+          "To stop the execution of a program"
+        ],
+        "correct_answer": "To execute code that should always run, regardless of exceptions"
+      },
+      {
+        "question": "What is the 'Java Virtual Machine' (JVM)?",
+        "options": [
+          "A virtual reality headset",
+          "A hardware component",
+          "A runtime environment for executing Java bytecode",
+          "A graphical user interface"
+        ],
+        "correct_answer": "A runtime environment for executing Java bytecode"
+      },
+      {
+        "question": "What is the purpose of the 'package' statement in Java?",
+        "options": [
+          "To declare a variable",
+          "To define a new class",
+          "To specify the name and location of the current Java file",
+          "To create a new Java project"
+        ],
+        "correct_answer": "To specify the name and location of the current Java file"
+      },
+      {
+        "question": "What does the 'import' statement do in Java?",
+        "options": [
+          "Imports a library or class for use in the current Java file",
+          "Exports the current Java file to other projects",
+          "Deletes a variable",
+          "Prints a message to the console"
+        ],
+        "correct_answer": "Imports a library or class for use in the current Java file"
+      },
+      {
+        "question": "Which data structure in Java allows you to store key-value pairs?",
+        "options": [
+          "Array",
+          "ArrayList",
+          "HashMap",
+          "Set"
+        ],
+        "correct_answer": "HashMap"
+      },
+      {
+        "question": "What is the purpose of 'polymorphism' in Java?",
+        "options": [
+          "To create animations in Java",
+          "To handle multiple data types using a single interface",
+          "To secure data in Java",
+          "To draw graphics on the screen"
+        ],
+        "correct_answer": "To handle multiple data types using a single interface"
+      },
+      {
+        "question": "What is the Java keyword for creating a subclass?",
+        "options": [
+          "class",
+          "extend",
+          "superclass",
+          "subclass"
+        ],
+        "correct_answer": "extends"
+      },
+      {
+        "question": "What is an 'applet' in Java?",
+        "options": [
+          "A type of dessert",
+          "A Java application",
+          "A small Java program that runs in a web browser",
+          "A database management system"
+        ],
+        "correct_answer": "A small Java program that runs in a web browser"
+      },
+      {
+        "question": "What is a 'method signature' in Java?",
+        "options": [
+          "A physical signature",
+          "A method's name and return type",
+          "A legal document",
+          "A digital signature"
+        ],
+        "correct_answer": "A method's name and return type"
+      },
+      {
+        "question": "What is the purpose of the 'toString' method in Java?",
+        "options": [
+          "To convert a string to an integer",
+          "To print a message to the console",
+          "To return a string representation of an object",
+          "To initialize an object"
+        ],
+        "correct_answer": "To return a string representation of an object"
+      },
+      {
+        "question": "What is the Java keyword for creating an instance of a class?",
+        "options": [
+          "object",
+          "create",
+          "instance",
+          "new"
+        ],
+        "correct_answer": "new"
+      },
+      {
+        "question": "What is the purpose of 'garbage collection' in Java?",
+        "options": [
+          "To clean up unused memory and objects",
+          "To organize data in memory",
+          "To prevent memory leaks",
+          "To compress data"
+        ],
+        "correct_answer": "To clean up unused memory and objects"
+      },
+      {
+        "question": "What does the 'assert' keyword do in Java?",
+        "options": [
+          "Prints a message to the console",
+          "Defines a variable",
+          "Checks if a boolean expression is true, otherwise, it throws an error",
+          "Imports a class"
+        ],
+        "correct_answer": "Checks if a boolean expression is true, otherwise, it throws an error"
+      },
+      {
+        "question": "What is 'inheritance' in Java?",
+        "options": [
+          "The process of creating new classes from existing classes",
+          "The process of creating objects",
+          "The process of importing libraries",
+          "The process of generating random numbers"
+        ],
+        "correct_answer": "The process of creating new classes from existing classes"
+      },
+      {
+        "question": "Which keyword is used to define a constant in Java?",
+        "options": [
+          "constant",
+          "final",
+          "immutable",
+          "value"
+        ],
+        "correct_answer": "final"
+      },
+      {
+        "question": "What is the 'switch' statement used for in Java?",
+        "options": [
+          "To create loops",
+          "To handle exceptions",
+          "To define variables",
+          "To perform different actions based on different values of a variable"
+        ],
+        "correct_answer": "To perform different actions based on different values of a variable"
+      },
+      {
+        "question": "What is the purpose of the 'break' statement in a 'switch' block?",
+        "options": [
+          "It ends the program",
+          "It jumps to the next iteration of the loop",
+          "It exits the 'switch' block prematurely",
+          "It repeats the 'switch' block indefinitely"
+        ],
+        "correct_answer": "It exits the 'switch' block prematurely"
+      },
+      {
+        "question": "Which data structure in Java is used to store elements in a sequential order?",
+        "options": [
+          "ArrayList",
+          "HashSet",
+          "LinkedList",
+          "HashMap"
+        ],
+        "correct_answer": "ArrayList"
+      },
+      {
+        "question": "What is the 'instanceof' operator used for in Java?",
+        "options": [
+          "To create a new instance of a class",
+          "To check if an object is an instance of a particular class",
+          "To perform mathematical operations",
+          "To convert a string to an integer"
+        ],
+        "correct_answer": "To check if an object is an instance of a particular class"
+      },
+      {
+        "question": "What is 'method overloading' in Java?",
+        "options": [
+          "Overloading a method with more parameters",
+          "Overloading a method with the same name but different parameters",
+          "Overloading a method by increasing its visibility",
+          "Overloading a method with fewer parameters"
+        ],
+        "correct_answer": "Overloading a method with the same name but different parameters"
+      },
+      {
+        "question": "What is 'method overriding' in Java?",
+        "options": [
+          "Overriding a method with more parameters",
+          "Overriding a method with the same name but different parameters",
+          "Overriding a method by increasing its visibility",
+          "Overriding a method in a subclass with the same name and parameters as in the superclass"
+        ],
+        "correct_answer": "Overriding a method in a subclass with the same name and parameters as in the superclass"
+      },
+      {
+        "question": "What is a 'lambda expression' in Java?",
+        "options": [
+          "A way to define an anonymous class",
+          "A keyword to declare variables",
+          "A mathematical expression",
+          "A type of loop"
+        ],
+        "correct_answer": "A way to define an anonymous class"
+      },
+      {
+        "question": "What is the purpose of 'generics' in Java?",
+        "options": [
+          "To specify data types at runtime",
+          "To allow for unlimited data types in a single variable",
+          "To create generic variables",
+          "To allow for code reuse without specifying data types in advance"
+        ],
+        "correct_answer": "To allow for code reuse without specifying data types in advance"
+      },
+      {
+        "question": "What is the 'this' keyword used for in Java?",
+        "options": [
+          "To define a new class",
+          "To access the superclass",
+          "To refer to the current instance of the class",
+          "To declare a constant"
+        ],
+        "correct_answer": "To refer to the current instance of the class"
+      },
+      {
+        "question": "What is 'exception handling' in Java?",
+        "options": [
+          "Handling exceptional cases in mathematics",
+          "Handling external hardware devices",
+          "Handling errors and exceptions that occur during program execution",
+          "Handling external databases"
+        ],
+        "correct_answer": "Handling errors and exceptions that occur during program execution"
+      },
+      {
+        "question": "Which Java keyword is used to explicitly specify that a variable doesn't have a value?",
+        "options": [
+          "null",
+          "void",
+          "empty",
+          "none"
+        ],
+        "correct_answer": "null"
+      },
+      {
+        "question": "What is a 'wrapper class' in Java?",
+        "options": [
+          "A class used for packaging gifts",
+          "A class that wraps primitive data types to provide additional functionality",
+          "A class that represents an abstract data type",
+          "A class for creating objects"
+        ],
+        "correct_answer": "A class that wraps primitive data types to provide additional functionality"
+      },
+      {
+        "question": "What is the 'String' class in Java?",
+        "options": [
+          "A class for numerical operations",
+          "A class for creating strings of text",
+          "A class for printing to the console",
+          "A class for drawing graphics"
+        ],
+        "correct_answer": "A class for creating strings of text"
+      },
+      {
+        "question": "What is the 'StringBuilder' class in Java used for?",
+        "options": [
+          "To build string values with efficient memory usage",
+          "To create a new class",
+          "To represent numbers as strings",
+          "To create graphics"
+        ],
+        "correct_answer": "To build string values with efficient memory usage"
+      },
+      {
+        "question": "What is 'JavaBeans' in Java?",
+        "options": [
+          "A type of coffee",
+          "A class for handling exceptions",
+          "A platform-independent component model for building reusable software components",
+          "A class for database management"
+        ],
+        "correct_answer": "A platform-independent component model for building reusable software components"
+      },
+      {
+        "question": "What is 'serialization' in Java?",
+        "options": [
+          "A type of error handling",
+          "A process of converting an object into a byte stream",
+          "A method for converting text to numbers",
+          "A method for converting images to text"
+        ],
+        "correct_answer": "A process of converting an object into a byte stream"
+      },
+      {
+        "question": "What is 'deserialization' in Java?",
+        "options": [
+          "A method for converting images to text",
+          "A method for error handling",
+          "A process of converting a byte stream into an object",
+          "A process of converting a byte stream into text"
+        ],
+        "correct_answer": "A process of converting a byte stream into an object"
+      },
+      {
+        "question": "What is 'reflection' in Java?",
+        "options": [
+          "A type of light refraction",
+          "A way to see the code of a class",
+          "A process of examining or modifying the runtime behavior of a class",
+          "A class for database connections"
+        ],
+        "correct_answer": "A process of examining or modifying the runtime behavior of a class"
+      },
+      {
+        "question": "What is 'regular expression' in Java?",
+        "options": [
+          "A way to express emotions in code",
+          "A pattern used to match character sequences",
+          "A method for generating random numbers",
+          "A method for sorting arrays"
+        ],
+        "correct_answer": "A pattern used to match character sequences"
+      }
+    ]
+  }
+  

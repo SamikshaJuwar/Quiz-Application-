@@ -1,0 +1,592 @@
+[
+    {
+        "question": "What does the 'len()' function return in Python?",
+        "options": [
+            "Length of a string",
+            "A boolean value",
+            "An error",
+            "A random number"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is NOT a valid data type in Python?",
+        "options": [
+            "Integer",
+            "Float",
+            "Character",
+            "String"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the correct way to comment out multiple lines in Python?",
+        "options": [
+            "/* This is a comment */",
+            "# This is a comment",
+            "// This is a comment",
+            "''' This is a comment '''"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the result of '3 + 4 * 2' in Python?",
+        "options": [
+            "10",
+            "11",
+            "14",
+            "15"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "method",
+            "def",
+            "func",
+            "define"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of 'print('Hello, ' + 'world!')' in Python?",
+        "options": [
+            "Hello, world!",
+            "Hello, + world!",
+            "Hello, Hello, world!",
+            "Hello,world!"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to check if two variables have the same value in Python?",
+        "options": [
+            "x is y",
+            "x == y",
+            "x != y",
+            "x > y"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How can you convert a string to an integer in Python?",
+        "options": [
+            "str_to_int()",
+            "int(string)",
+            "convert_to_int()",
+            "string_as_integer()"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is used to define a block of code in Python?",
+        "options": [
+            "Curly braces {}",
+            "Indentation",
+            "Square brackets []",
+            "Quotation marks ''"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of 'print(list(range(5)))' in Python?",
+        "options": [
+            "[0, 1, 2, 3, 4]",
+            "[1, 2, 3, 4, 5]",
+            "(0, 1, 2, 3, 4)",
+            "[5, 4, 3, 2, 1, 0]"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is NOT a valid way to import a Python module?",
+        "options": [
+            "import mymodule",
+            "import mymodule as mm",
+            "from mymodule import *",
+            "include mymodule"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the value of 'x' after the following code: 'x = x + 1'?",
+        "options": [
+            "x is incremented by 1",
+            "x remains unchanged",
+            "x is set to 1",
+            "x becomes 0"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to open a file in Python for reading?",
+        "options": [
+            "open('file.txt', 'r')",
+            "open('file.txt', 'w')",
+            "open('file.txt', 'a')",
+            "open('file.txt', 'x')"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a Python framework for web development?",
+        "options": [
+            "Django",
+            "Java",
+            "C++",
+            "Ruby on Rails"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the result of '5 / 2' in Python?",
+        "options": [
+            "2.5",
+            "2",
+            "2.0",
+            "2.25"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to create a dictionary in Python?",
+        "options": [
+            "{1: 'one', 2: 'two'}",
+            "[1, 2]",
+            "(1, 'one'), (2, 'two')",
+            "{'one', 'two'}"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of 'pass' statement in Python?",
+        "options": [
+            "It defines a variable",
+            "It does nothing and acts as a placeholder",
+            "It prints a message to the console",
+            "It terminates the program"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the keyword used for defining a class in Python?",
+        "options": [
+            "class",
+            "type",
+            "define",
+            "classof"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is an immutable data type in Python?",
+        "options": [
+            "List",
+            "Set",
+            "Dictionary",
+            "Tuple"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the output of 'print('hello'.upper())' in Python?",
+        "options": [
+            "hello",
+            "Hello",
+            "HELLO",
+            "heLLo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How do you define a default value for a function parameter in Python?",
+        "options": [
+            "param = default_value",
+            "param(default_value)",
+            "param(default_value = value)",
+            "param(value: default_value)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Python function is used to read a line from the console?",
+        "options": [
+            "input()",
+            "readline()",
+            "read()",
+            "getline()"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does the 'if' statement do in Python?",
+        "options": [
+            "It defines a function",
+            "It performs a loop",
+            "It checks a condition and executes code if the condition is true",
+            "It terminates the program"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which module in Python is used to work with regular expressions?",
+        "options": [
+            "re",
+            "regex",
+            "regexp",
+            "regexlib"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to concatenate two lists in Python?",
+        "options": [
+            "list1 + list2",
+            "list1.concat(list2)",
+            "list1.concatenate(list2)",
+            "list1.join(list2)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which statement is used to exit a loop prematurely in Python?",
+        "options": [
+            "exit",
+            "break",
+            "continue",
+            "return"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How do you round a floating-point number to the nearest integer in Python?",
+        "options": [
+            "round(x)",
+            "floor(x)",
+            "ceil(x)",
+            "int(x)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does the 'append()' method do for lists in Python?",
+        "options": [
+            "Removes an element from the list",
+            "Inserts an element at the beginning of the list",
+            "Inserts an element at the specified position in the list",
+            "Adds an element to the end of the list"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is NOT a valid loop in Python?",
+        "options": [
+            "for loop",
+            "while loop",
+            "do-while loop",
+            "foreach loop"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the correct way to remove an element from a set in Python?",
+        "options": [
+            "remove(element)",
+            "delete(element)",
+            "discard(element)",
+            "pop(element)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the result of 'bool('False')' in Python?",
+        "options": [
+            "False",
+            "True",
+            "Error",
+            "None"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'with' statement in Python?",
+        "options": [
+            "It defines a function",
+            "It performs a loop",
+            "It is used for context management and ensures resources are properly cleaned up",
+            "It terminates the program"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which module in Python is used for handling dates and times?",
+        "options": [
+            "time",
+            "datetime",
+            "calendar",
+            "dateutil"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How do you create a shallow copy of a list in Python?",
+        "options": [
+            "copy.copy(list)",
+            "list.copy()",
+            "list.clone()",
+            "copy(list)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the result of '5 / 0' in Python?",
+        "options": [
+            "5",
+            "0",
+            "Infinity",
+            "Error"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the correct way to sort a list in Python in ascending order?",
+        "options": [
+            "list.sort()",
+            "sorted(list)",
+            "list.order()",
+            "sort(list)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which data structure in Python stores elements in a key-value pair?",
+        "options": [
+            "List",
+            "Set",
+            "Tuple",
+            "Dictionary"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the result of '3 in [1, 2, 3, 4, 5]' in Python?",
+        "options": [
+            "True",
+            "False",
+            "Error",
+            "None"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to create a tuple in Python?",
+        "options": [
+            "(1, 2, 3)",
+            "[1, 2, 3]",
+            "{1, 2, 3}",
+            "<1, 2, 3>"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to check if a file exists in Python?",
+        "options": [
+            "exists('file.txt')",
+            "file_exists('file.txt')",
+            "os.exists('file.txt')",
+            "os.path.exists('file.txt')"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of 'try' and 'except' in Python?",
+        "options": [
+            "They define a loop",
+            "They handle exceptions and errors",
+            "They are used for defining classes",
+            "They are used for mathematical operations"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a valid way to open a file in Python for writing?",
+        "options": [
+            "open('file.txt', 'r')",
+            "open('file.txt', 'w')",
+            "open('file.txt', 'a')",
+            "open('file.txt', 'x')"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the correct way to define a constant in Python?",
+        "options": [
+            "const PI = 3.14159",
+            "PI = 3.14159",
+            "constant PI: 3.14159",
+            "define PI as 3.14159"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of 'print('hello' * 3)' in Python?",
+        "options": [
+            "hellohellohello",
+            "hello * 3",
+            "Error",
+            "None"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is NOT a valid way to remove an item from a list in Python?",
+        "options": [
+            "list.remove(item)",
+            "del list[index]",
+            "list.pop(index)",
+            "list.discard(item)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of the 'pass' statement in Python?",
+        "options": [
+            "It defines a variable",
+            "It does nothing and acts as a placeholder",
+            "It prints a message to the console",
+            "It terminates the program"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a valid way to concatenate strings in Python?",
+        "options": [
+            "str1 + str2",
+            "str1 .concat(str2)",
+            "str1 += str2",
+            "str1.join(str2)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the correct way to check the length of a list in Python?",
+        "options": [
+            "len(list)",
+            "list.length()",
+            "list.len()",
+            "length(list)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the result of 'not True' in Python?",
+        "options": [
+            "True",
+            "False",
+            "Error",
+            "None"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How do you create a deep copy of a list in Python?",
+        "options": [
+            "copy(list)",
+            "list.clone()",
+            "list.deepcopy()",
+            "deepcopy(list)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which statement is used to skip the rest of the current iteration and move to the next in a loop?",
+        "options": [
+            "exit",
+            "break",
+            "continue",
+            "return"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of 'print(3 / 2)' in Python?",
+        "options": [
+            "1.5",
+            "1",
+            "1.0",
+            "1.25"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to add a key-value pair to a dictionary in Python?",
+        "options": [
+            "dict.add(key, value)",
+            "dict[key] = value",
+            "dict.insert(key, value)",
+            "dict.update(key, value)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'finally' block in a try-except statement in Python?",
+        "options": [
+            "It defines the main logic of the code",
+            "It is executed if an exception is raised",
+            "It is executed only if there is no exception",
+            "It is used to terminate the program"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which function is used to find the maximum value in a list in Python?",
+        "options": [
+            "max(list)",
+            "maximum(list)",
+            "list.max()",
+            "find_max(list)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the result of 'True or False' in Python?",
+        "options": [
+            "True",
+            "False",
+            "Error",
+            "None"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How do you define a list in Python?",
+        "options": [
+            "[1, 2, 3]",
+            "(1, 2, 3)",
+            "{1, 2, 3}",
+            "<1, 2, 3>"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to check if a key exists in a dictionary in Python?",
+        "options": [
+            "key.exists(dict)",
+            "key in dict",
+            "dict.has_key(key)",
+            "dict.contains(key)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'map()' function in Python?",
+        "options": [
+            "To create a map visualization",
+            "To apply a function to each item in an iterable",
+            "To generate random numbers",
+            "To print a map"
+        ],
+        "answer": 1
+    }
+]

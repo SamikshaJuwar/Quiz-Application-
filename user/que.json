@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is Python?",
+        "options": [
+            "A high-level programming language",
+            "A type of snake",
+            "A character encoding format",
+            "A popular operating system"
+        ],
+        "answer": "A high-level programming language"
+    },
+    {
+        "question": "How do you create a variable in Python?",
+        "options": [
+            "var x = 5",
+            "int x = 5",
+            "x = 5",
+            "variable x = 5"
+        ],
+        "answer": "x = 5"
+    },
+    {
+        "question": "What is the result of 2 + 3 in Python?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Which of the following is not a valid Python data type?",
+        "options": [
+            "Integer",
+            "String",
+            "Float",
+            "Character"
+        ],
+        "answer": "Character"
+    },
+    {
+        "question": "What is the purpose of the 'if' statement in Python?",
+        "options": [
+            "To define a function",
+            "To declare a variable",
+            "To perform conditional execution",
+            "To print output"
+        ],
+        "answer": "To perform conditional execution"
+    }
+]
